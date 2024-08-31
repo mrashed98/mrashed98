@@ -1,36 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Rashed</h1>
-<h3 align="center">A passionate QC Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrashed98&label=Profile%20views&color=0e75b6&style=flat" alt="mrashed98" /> </p>
+<h1 align="center">Hi, I'm Mahmoud Rashed 👋</h1>
 
-- 🔭 I’m currently working on **QC**
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 👯 I’m looking to collaborate on **Backend projects**
-
-- 🤝 I’m looking for help with **Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mrashed98](https://github.com/mrashed98)
-
-- 💬 Ask me about **Web Scraping/Testing**
-
-- 📫 How to reach me **mahmoud.rashed2505@outlook.com**
-
-- ⚡ Fun fact **I always try to automate boring stuff spending a lot more time than the usual xD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/l05t_f15h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="l05t_f15h" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoud-rashed2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-rashed2505" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoud.rashed2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.rashed2505" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://linkedin.com/in/mrashed98" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+    <a href="mailto:mahmoud.rashed2505@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mrashed98&color=brightgreen&style=flat-square">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+    I'm currently working as a QC and Automation Engineer, where I focus on ensuring the quality and reliability of software systems. Alongside my work, I have a deep passion for coding and building projects. I'm actively learning backend development, with a particular focus on Go Lang, to expand my skill set and take on new challenges.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrashed98&show_icons=true&locale=en&layout=compact" alt="mrashed98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrashed98&show_icons=true&locale=en" alt="mrashed98" /></p>
+## 📚 What I am learning 
+<p align="center">
+    <a href="https://roadmap.sh"><img height="50%" width="50%" src="https://roadmap.sh/card/wide/66cb3b7592ec1a8a734ac52d?variant=dark&roadmaps=backend%2Cgolang" alt="roadmap.sh"/></a>
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrashed98&" alt="mrashed98" /></p>
+## 🔧 Technologies & Tools
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Language-Python-informational?style=flat-square&logo=python&color=blue" alt="Python">
+    <img src="https://img.shields.io/badge/Language-Java-informational?style=flat-square&logo=java&color=red" alt="Java">
+    <img src="https://img.shields.io/badge/Language-C%23-informational?style=flat-square&logo=c-sharp&color=purple" alt="C#">
+    <img src="https://img.shields.io/badge/Language-Go-informational?style=flat-square&logo=go&color=turquoise" alt="Go Lang">
+    <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&color=blue" alt="MySQL">
+    <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&color=green" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=blue" alt="Docker">
+    <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon-aws&color=orange" alt="AWS">
+    <img src="https://img.shields.io/badge/Tool-Selenium-informational?style=flat-square&logo=selenium&color=43B02A" alt="Selenium">
+    <img src="https://img.shields.io/badge/Tool-Playwright-informational?style=flat-square&logo=microsoft-playwright&color=2EAD33" alt="Playwright">
+    <img src="https://img.shields.io/badge/Tool-REST%20API-informational?style=flat-square&logo=postman&color=FF6C37" alt="REST API">
+    <img src="https://img.shields.io/badge/Tool-Postman-informational?style=flat-square&logo=postman&color=FF6C37" alt="Postman">
+    <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat-square&logo=flask&color=000000" alt="Flask">
+    <img src="https://img.shields.io/badge/Framework-FastAPI-informational?style=flat-square&logo=fastapi&color=009688" alt="FastAPI">
+
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mrashed98&theme=tokyonight&hide_border=true" alt="Mahmoud's GitHub Stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashed98&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+## 📝 Recent Projects
+
+- **[Jira CLi Tracker](https://github.com/mrashed98/Jira-CLI-Task-Tracker)**: This project is Jira task tracker CLI application that you can monitor all the tasks assigned to you on jira and Update its status from the Command line
+<!-- - **[Project 2 Name](https://github.com/mrashed98/project2)**: Brief description of what the project does and what technologies were used.
+- **[Project 3 Name](https://github.com/mrashed98/project3)**: Brief description of what the project does and what technologies were used. -->
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/mrashed98](https://linkedin.com/in/mrashed98)
+- Email: [mahmoud.rashed2505@outlook.com](mailto:mahmoud.rashed2505@outlook.com)
+
+<!-- Footer Image -->
+<div align="center">
+  <img src="https://github.com/mrashed98/mrashed98/blob/main/Github%20Profile%20Header%20(1).png", alt="Footer"/>
+</div>
+
+
+
